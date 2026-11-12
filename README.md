@@ -75,17 +75,6 @@ The project follows a typical machine learning pipeline:
 | Freight Cost Prediction | Regression | Best-performing model selected during training |
 | Invoice Flagging | Classification | Random Forest Classifier |
 
-## 📸 Application Screenshots
-
-### Homepage
-![InvoiceIQ Homepage](docs/images/homepage.png)
-
-### Freight Cost Prediction
-![Freight Cost Prediction](docs/images/freight-prediction.png)
-
-### Invoice Manual Approval Flagging
-![Invoice Manual Approval Flagging](docs/images/invoice-flagging.png)
-
 ## 📁 Project Structure
 
 ```text
